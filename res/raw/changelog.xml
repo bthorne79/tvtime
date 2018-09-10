@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog bulletedList="true">
+
+    <changelogversion
+        versionName="1.9.10">
+        <changelogtext>[b][font color=green]Important![/font][/b] Starting from version 1.9.10, only
+            devices with Android OS version 4.1 or newer are supported! Don't worry. This change
+            should only affect a small minority of users.
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new providers!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new hosts!</changelogtext>
+        <changelogtext>Fixed a bug which can make TV season scraping failed</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Removed some sensitive permissions (e.g. Location, Contacts Access, etc.)
+        </changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.9">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new providers!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new hosts!</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.8">
+        <changelogtext>[b][font color=red]Urgent Fix![/font][/b] Stop loading TV show metadata after
+            a
+            certain timeout or after server returns an error to avoid freezing the whole app
+        </changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.7">
+        <changelogtext>[b][font color=red]Important![/font][/b] Fixed a critical bug which causes
+            failures while the app is searching for links
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Fixed the bug which causes the app to keep asking for reCaptcha
+            verification
+        </changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more 1080p links!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Fixed OpenSubtitles subtitles service</changelogtext>
+        <changelogtext>Fixed new episodes checker</changelogtext>
+        <changelogtext>Fixed new movie releases checker</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.5">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more 1080p links!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>Fixed buffering issues</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Fix MakeDie subtitles service</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more 4K links!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new URL resolvers</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Fixed "No Data" on some older devices</changelogtext>
+        <changelogtext>Fixed "New HD Releases" category on some older devices</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new URL resolvers</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Fixed SeriesGuide extension</changelogtext>
+        <changelogtext>Fixed Chromecast subtitle bugs</changelogtext>
+        <changelogtext>Fixed some UI bugs</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new Real-Debrid providers
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new URL resolvers</changelogtext>
+        <changelogtext>Improve the bottom notification bar of completing CAPTCHA</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing URL resolvers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD providers</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new URL resolvers</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.9.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more CDN-FastServer links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] The app now indicates which link is fast
+            and slow
+        </changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.8.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Added more GoogleVideo links!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added more Fast CDN links!</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new providers!</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Disabled broken video hosts</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        versionName="1.8.5">
+        <changelogtext>[b][font color=red]New![/font][/b] ExoPlayer has been discontinued. Please
+            use YesPlayer instead!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added support of YesPlayer. Use it now and
+            you will see 70% less video ADs!!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new Real-Debrid providers
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new providers</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new video hosts</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added new fast video host: LLCDN-Fast
+        </changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing video hosts</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Disabled broken video hosts</changelogtext>
+        <changelogtext>Fixed GoogleVideo links</changelogtext>
+        <changelogtext>Fixed CDN links</changelogtext>
+        <changelogtext>Fixed Chromecast</changelogtext>
+        <changelogtext>Fixed downloads keep failing</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Nov 16,2017"
+        versionName="1.8.3">
+        <changelogtext>[b][font color=red] FIXED CRITICAL BUGS AND CRASHES IN 1.8.2 [/font][/b]
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Auto switch to an alternate subtitles
+            provider if the default one doesn't work
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added results limit for Alluc (Default:
+            20)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : TvRelease
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : TwoDDL
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: CMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: FMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: GMoviesSC</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: HDMovie</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: MyFilm
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: OtiMovies
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: Vodly
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : OCloud
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Vidlox
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Greek translation</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing video hosts</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Disabled broken video hosts</changelogtext>
+        <changelogtext>Fixed GoogleVideo links</changelogtext>
+        <changelogtext>Fixed missing seasons and episodes</changelogtext>
+        <changelogtext>Fixed and improved built-in video player (ExoPlayer)</changelogtext>
+        <changelogtext>Fixed Trakt.tv</changelogtext>
+        <changelogtext>Fixed new episode checker</changelogtext>
+        <changelogtext>Fixed file extension of downloaded videos</changelogtext>
+        <changelogtext>Fixed downloading videos not being removed properly</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Reduced APK size</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Nov 16,2017"
+        versionName="1.8.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Auto switch to an alternate subtitles
+            provider if the default one doesn't work
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added results limit for Alluc (Default:
+            20)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : TvRelease
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : TwoDDL
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: CMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: FMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: GMoviesSC</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider: HDMovie</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: MyFilm
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: OtiMovies
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider: Vodly
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : OCloud
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Vidlox
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Greek translation</changelogtext>
+        <changelogtext>Fixed existing providers</changelogtext>
+        <changelogtext>Fixed existing video hosts</changelogtext>
+        <changelogtext>Disabled broken providers</changelogtext>
+        <changelogtext>Disabled broken video hosts</changelogtext>
+        <changelogtext>Fixed GoogleVideo links</changelogtext>
+        <changelogtext>Fixed missing seasons and episodes</changelogtext>
+        <changelogtext>Fixed and improved built-in video player (ExoPlayer)</changelogtext>
+        <changelogtext>Fixed Trakt.tv</changelogtext>
+        <changelogtext>Fixed new episode checker</changelogtext>
+        <changelogtext>Fixed file extension of downloaded videos</changelogtext>
+        <changelogtext>Fixed downloading videos not being removed properly</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Reduced APK size</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Oct 16,2017"
+        versionName="1.8.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Added aspect ration adjustment for
+            built-in video player (ExoPlayer)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added volume adjustment feature in
+            ExoPlayer on Android TV devices
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : AllRelease
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : MovieOcean
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : PLocker9</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : PLockerSK</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : Pubfilm</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : Vivo</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : KingVid
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : MyCloud
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : UniUp
+        </changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Reduced loading time for TV shows Trending section</changelogtext>
+        <changelogtext>Fixed ads not being removed for paid users</changelogtext>
+        <changelogtext>Fixed bugs of built-in video player (ExoPlayer)</changelogtext>
+        <changelogtext>Fixed Chromecast controller being in landscape orientation</changelogtext>
+        <changelogtext>Fixed trailers on Fire TV</changelogtext>
+        <changelogtext>Fixed bugs on Android TV and Fire TV devices</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Sep 23,2017"
+        versionName="1.8.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Added a built-in video player
+            (ExoPlayer)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added a button to switch video player on
+            menu
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Alluc now requires an API key to work (you
+            can add one in Settings)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : DiziKing
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider : ImDark
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider : PFTV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Vidoza
+        </changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Disabled Vumoo provider temporarily</changelogtext>
+        <changelogtext>Fixed new episodes checker</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Reduce ads</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 27,2017"
+        versionName="1.7.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : Alluc</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed "Play with..."</changelogtext>
+        <changelogtext>Fixed new episodes checker</changelogtext>
+        <changelogtext>Fixed Trakt.tv collections/favorites sync</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 23,2017"
+        versionName="1.7.5">
+        <changelogtext>[b][font color=red]New![/font][/b] The app now greys out watched links
+            automatically
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Reworked TV shows and movies searching
+            function. You can now search for TV shows and movies at the same time!
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Stand-up Comedy" movies category
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : StreamLord
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : EStream
+        </changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Fixed existing URLs resolvers</changelogtext>
+        <changelogtext>Fixed images being missing after syncing with Trakt.tv</changelogtext>
+        <changelogtext>Fixed YouTube app keep crashing bug</changelogtext>
+        <changelogtext>Fixed Chromecast subtitles bug</changelogtext>
+        <changelogtext>Updated Disney movies category</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 6,2017"
+        versionName="1.7.4">
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Disabled DiziBeta TV shows provider temporarily</changelogtext>
+        <changelogtext>Simplified menu items (Remove not commonly used Chromecast buttons)
+        </changelogtext>
+        <changelogtext>Fixed built-in Chromecast function</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 1,2017"
+        versionName="1.7.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Show posters instead of banners for season
+            images
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Links from Real-Debrid are now in green
+            highlight
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Prioritize links from Real-Debrid
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added an option to hide title and year on
+            the poster images
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added a green highlight to indicate
+            watched episodes
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : MHD</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : TheYM</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Czech translation</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed Chromecast subtitles bugs</changelogtext>
+        <changelogtext>Fixed Chromecast autoplay bugs</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Removed a permission</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jul 23,2017"
+        versionName="1.7.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Resume Playback" feature
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "YouTube" TV shows and movies
+            categories
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Crime" and "Soap" TV shows
+            categories
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid provider : WrzCraft
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : VidMoly
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Bulgarian translation
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Croatian translation</changelogtext>
+        <changelogtext>Fixed Real-Debrid</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Fixed existing URLs resolvers</changelogtext>
+        <changelogtext>Disabled MyFilm provider temporarily</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jul 11,2017"
+        versionName="1.7.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Added an option to lock Landscape
+            orientation on Android TV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Bengali translation</changelogtext>
+        <changelogtext>Fixed Real-Debrid</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Fixed existing URLs resolvers</changelogtext>
+        <changelogtext>Improved search function</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jul 9,2017"
+        versionName="1.7.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Added Real-Debrid (an unrestricted
+            multihoster) support
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added content ratings in media details
+            page
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added auto sync watch histories to
+            Trakt.tv on startup
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added long click to add movie/episode to
+            favorite
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : MyFilm</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : DiziBeta
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : Dizist
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : Dizimvar
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies : WikiSeda</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Fixed existing URLs resolvers</changelogtext>
+        <changelogtext>Removed movies provider : MovieGo</changelogtext>
+        <changelogtext>Removed movies provider : Streamdor</changelogtext>
+        <changelogtext>Removed URLs resolver : Streaminto</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jun 26,2017"
+        versionName="1.6.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : DiziSon
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : StreamCherry
+        </changelogtext>
+        <changelogtext>Fixed wrong stream links of movie Split (2017)</changelogtext>
+        <changelogtext>Fixed some new and serious bugs in 1.6.5</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jun 25,2017"
+        versionName="1.6.5">
+        <changelogtext>[b][font color=red]New![/font][/b] Added new HD movie releases notification
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "New HD Releases" movies category
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Amazon" TV shows category
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Hulu" TV shows category
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Hide episode synopsis" option
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Resolve HD links only" option
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added a blue line to indicate watched
+            movies
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : SeeHD</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : FastPlay
+        </changelogtext>
+        <changelogtext>Fixed 4K movies providers</changelogtext>
+        <changelogtext>Fixed existing TV shows providers</changelogtext>
+        <changelogtext>Fixed existing movies providers</changelogtext>
+        <changelogtext>Fixed existing URLs resolvers</changelogtext>
+        <changelogtext>Fixed categories being messed up</changelogtext>
+        <changelogtext>Fixed bugs related to Trakt.tv</changelogtext>
+        <changelogtext>Fixed bugs related to Chromecast subtitles</changelogtext>
+        <changelogtext>Fixed bugs related to video download</changelogtext>
+        <changelogtext>Fixed various bugs and crashes</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jun 10,2017"
+        versionName="1.6.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Netflix" TV shows category
+        </changelogtext>
+        <changelogtext>Fixed provider : 123MoviesHD</changelogtext>
+        <changelogtext>Fixed provider : KingMovies</changelogtext>
+        <changelogtext>Fixed provider : PMovies</changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed provider : Watch5s</changelogtext>
+        <changelogtext>Fixed provider : WOPro</changelogtext>
+        <changelogtext>Fixed provider : XMovies8</changelogtext>
+        <changelogtext>Fixed TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Fixed and re-enabled movies provider : HeyDL</changelogtext>
+        <changelogtext>Fixed movies provider : M4UFree</changelogtext>
+        <changelogtext>Fixed URLs resolver : VidUp.me</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jun 3,2017"
+        versionName="1.6.3">
+        <changelogtext>[b][font color=red]New![/font][/b] [font color=red][Trakt.tv][/font] Movies
+            can be added to watch histories now
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Year filter now supports more genre and
+            category lists
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV calendar</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Chromecast subtitles font
+            customization
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added search suggestions</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Western and Kids genres for TV
+            shows
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added CAM version movies filter
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Filez
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : RapidVideo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Xvidstage
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Clear cache" button in Settings
+        </changelogtext>
+        <changelogtext>Fixed provider : MvGee</changelogtext>
+        <changelogtext>Fixed provider : PMovies</changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed provider : WOPro</changelogtext>
+        <changelogtext>Fixed provider : XMovies8</changelogtext>
+        <changelogtext>Fixed TV shows provider : Dizibox</changelogtext>
+        <changelogtext>Fixed movies provider : M4UFree</changelogtext>
+        <changelogtext>Sort OpenSubtitles subtitles order by download count</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 21,2017"
+        versionName="1.6.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Auto mute loud video ads</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Upload watched episodes to Trakt.tv
+            manually" feature
+        </changelogtext>
+        <changelogtext>Fixed provider : FliXanityBased</changelogtext>
+        <changelogtext>Fixed provider : Watch5s</changelogtext>
+        <changelogtext>Fixed movies provider : M4UFree</changelogtext>
+        <changelogtext>Fixed movies provider : MovieGo</changelogtext>
+        <changelogtext>Fixed movies provider : MovieXK</changelogtext>
+        <changelogtext>Fixed movies provider : SpaceMov</changelogtext>
+        <changelogtext>Disabled HeyDL movies provider temporarily</changelogtext>
+        <changelogtext>Improved CAM version movies detection</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 14,2017"
+        versionName="1.6.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Auto check-in into Trakt.tv"
+            feature
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Auto add watched episode to
+            Trakt.tv history" feature
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Auto add favorite to Trakt.tv
+            collection" feature
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Supported long pressing "Enter" on D-Pad
+            to play
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : KingMovies
+        </changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed provider : Watch5s</changelogtext>
+        <changelogtext>Fixed movies provider : M4UFree</changelogtext>
+        <changelogtext>Fixed movies provider : MovieXK</changelogtext>
+        <changelogtext>Fixed movies provider : SpaceMov</changelogtext>
+        <changelogtext>Fixed TV shows provider : Dizibox</changelogtext>
+        <changelogtext>Fixed TV shows provider : OnlineDizi</changelogtext>
+        <changelogtext>Fixed TV shows provider : TVRush</changelogtext>
+        <changelogtext>Fixed URLs resolver : ok.ru</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 06,2017"
+        versionName="1.6.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Added 4K movies provider : TTV4K, which
+            providers >40 4K movies.
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "4K" movies category</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Downloads" section</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Backup watched episodes" option
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Auto backup before updating"
+            option
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Landscape mode is now supported in
+            Chromecast control activity
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : UpToBox
+        </changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed provider : Watch5s</changelogtext>
+        <changelogtext>Fixed TV shows provider : Dizigold</changelogtext>
+        <changelogtext>Fixed URLs resolver : YouWatch</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 01,2017"
+        versionName="1.5.10">
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Streamable
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Tune.pk
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : Vid.me
+        </changelogtext>
+        <changelogtext>Fixed provider : 123MoviesHD</changelogtext>
+        <changelogtext>Fixed provider : iWatchOnline</changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed TV shows provider : Dizigold</changelogtext>
+        <changelogtext>Fixed missing episode information for some TV shows</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 25,2017"
+        versionName="1.5.9">
+        <changelogtext>[b][font color=red]New![/font][/b] Added an option to enable/disable and
+            change the frequency of new episode checking
+        </changelogtext>
+        <changelogtext>Fixed movies provider : HeyDL</changelogtext>
+        <changelogtext>Beautified UI</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and crashes</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 24,2017"
+        versionName="1.5.8">
+        <changelogtext>[b][font color=red]New![/font][/b] Show notification where there is a new
+            episode
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : PMovies</changelogtext>
+        <changelogtext>Fixed provider : PelisPedia</changelogtext>
+        <changelogtext>Fixed provider : Watch5s</changelogtext>
+        <changelogtext>Fixed movies provider : MovieXK</changelogtext>
+        <changelogtext>Fixed TV shows provider : Vidics</changelogtext>
+        <changelogtext>Removed movies provider : HDMovie14</changelogtext>
+        <changelogtext>Disabled Movie25 provider temporarily</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 14,2017"
+        versionName="1.5.7">
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : GoMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : MyWS
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URL resolver : Streamango
+        </changelogtext>
+        <changelogtext>Improved the appearance of subtitles when casting with Chromecast
+        </changelogtext>
+        <changelogtext>Changed a few Chromecast controller buttons</changelogtext>
+        <changelogtext>Don't show the update dialog for multiple times</changelogtext>
+        <changelogtext>Fixed provider : 123MoviesHD</changelogtext>
+        <changelogtext>Fixed provider : Vivo</changelogtext>
+        <changelogtext>Fixed provider : Vumoo</changelogtext>
+        <changelogtext>Fixed provider : YesMovies</changelogtext>
+        <changelogtext>Removed movies provider : Cine</changelogtext>
+        <changelogtext>Disabled WOTube provider temporarily</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 10,2017"
+        versionName="1.5.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Added subtitles support for native
+            Chromecast
+        </changelogtext>
+        <changelogtext>Fixed movies provider : Pubfilm</changelogtext>
+        <changelogtext>Disabled Openload URLs resolver temporarily</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 8,2017"
+        versionName="1.5.5">
+        <changelogtext>Fixed some serious bugs in 1.5.3 and 1.5.4</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 8,2017"
+        versionName="1.5.4">
+        <changelogtext>Fixed a serious bug and "Open with..." option not working properly in 1.5.3
+        </changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 8,2017"
+        versionName="1.5.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Added native Chromecast support
+        </changelogtext>
+        <changelogtext>Fixed "Open with..." option not working properly</changelogtext>
+        <changelogtext>Improved CAM version video detection</changelogtext>
+        <changelogtext>Removed READ_PHONE_STATE permission</changelogtext>
+        <changelogtext>Fixed provider : PelisPedia</changelogtext>
+        <changelogtext>Fixed movies provider : AfdahTV</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 2,2017"
+        versionName="1.5.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : 123MoviesHD
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider : DayT
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows provider : MiraDeTodo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added TV shows (WWE) provider :
+            AllWrestling
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added URLs resolver : UniUp
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Polish translation</changelogtext>
+        <changelogtext>Fixed Marvel's TV shows having no links</changelogtext>
+        <changelogtext>Fixed provider : Vivo</changelogtext>
+        <changelogtext>Fixed provider : XMovies8</changelogtext>
+        <changelogtext>Fixed provider : iWatchOnline</changelogtext>
+        <changelogtext>Fixed movies provider : Afdah</changelogtext>
+        <changelogtext>Fixed movies provider : HDMovie14</changelogtext>
+        <changelogtext>Fixed movies provider : MovieHubs</changelogtext>
+        <changelogtext>Fixed movies provider : Pubfilm</changelogtext>
+        <changelogtext>Fixed TV shows provider : OnlineDizi</changelogtext>
+        <changelogtext>Fixed URLs resolver : Openload</changelogtext>
+        <changelogtext>Disabled YesMovies provider temporarily</changelogtext>
+        <changelogtext>Removed movies provider : MovieFree</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Fixed bugs and FCs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 29,2017"
+        versionName="1.5.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Auto mark episodes as watched when next
+            episode button is clicked
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added share app button on home screen
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies category : Western
+        </changelogtext>
+        <changelogtext>Changed the order of "In Theaters" and "Most Popular" in movie categories
+        </changelogtext>
+        <changelogtext>Fixed Trakt sync favorites not working bug</changelogtext>
+        <changelogtext>Fixed provider : Vivo</changelogtext>
+        <changelogtext>Fixed provider : WOPro</changelogtext>
+        <changelogtext>Fixed movies provider : Afdah</changelogtext>
+        <changelogtext>Fixed movies provider : AfdahTV</changelogtext>
+        <changelogtext>Fixed movies provider : MovieHubs</changelogtext>
+        <changelogtext>Fixed TV shows provider : OnlineDizi</changelogtext>
+        <changelogtext>Fixed URLs resolver : Openload</changelogtext>
+        <changelogtext>Removed TV shows provider : YabanciDizi</changelogtext>
+        <changelogtext>Improved UI</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Fixed bugs and FCs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 19,2017"
+        versionName="1.5.0">
+        <changelogtext>[b][font color=red]New![/font][/b] [i][font
+            color=green]Beta[/font][/i] Added initial Trakt.tv support (sync favorites)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added submit search button</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added options to auto mark episodes as
+            watched
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies category : Oscars Winners
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies category : Christmas
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies category : Marvel's
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies category : Disney Classics
+        </changelogtext>
+        <changelogtext>Fixed provider : TuneMovie</changelogtext>
+        <changelogtext>Fixed movies provider : PirateJunkies</changelogtext>
+        <changelogtext>Fixed movies provider : StreamDor</changelogtext>
+        <changelogtext>Fixed TV shows provider : Vidics</changelogtext>
+        <changelogtext>Fixed TV shows provider : WatchSeries</changelogtext>
+        <changelogtext>Removed provider : Bia2M</changelogtext>
+        <changelogtext>Removed provider : Farda</changelogtext>
+        <changelogtext>Removed provider : WatchFilm</changelogtext>
+        <changelogtext>Removed movies provider : MovieZone</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Fixed bugs and FCs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 15,2017"
+        versionName="1.4.12">
+        <changelogtext>Fixed "Download with subtitles" not working bug</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 14,2017"
+        versionName="1.4.11">
+        <changelogtext>[b][font color=red]New![/font][/b] Swapped "Play" and "Play without
+            subtitles" buttons
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added options to backup and restore
+            favorites
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added an option adjust sources list
+            refresh interval
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added an option to hide poster
+            thumbnails
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Next Episode" button in sources
+            searching screen
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added "Play Trailer" button in Android TV
+            mode
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added movies provider : StreamDor
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added back movies provider : Pubfilm
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added Estonian translation</changelogtext>
+        <changelogtext>Fixed movies provider : MiraDeTodo</changelogtext>
+        <changelogtext>Fixed "Low-end device detected" dialog showing on some devices
+        </changelogtext>
+        <changelogtext>Removed contacts permission</changelogtext>
+        <changelogtext>Reduced ads</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Improved performance a lot</changelogtext>
+        <changelogtext>Improved layout</changelogtext>
+        <changelogtext>Fixed bugs and FCs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 5,2017"
+        versionName="1.4.10">
+        <changelogtext>[b][font color=red]New![/font][/b] Added option to backup and restore
+            settings
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added option to choose default synopsis
+            language
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Added provider : YesMovies</changelogtext>
+        <changelogtext>Fixed provider : XMovies8</changelogtext>
+        <changelogtext>Fixed movies provider : HeyDL</changelogtext>
+        <changelogtext>Fixed movies provider : Movie25</changelogtext>
+        <changelogtext>Fixed TV shows provider : TVRush</changelogtext>
+        <changelogtext>Updated translations</changelogtext>
+        <changelogtext>Improved layout</changelogtext>
+        <changelogtext>Improved poster images loading speed</changelogtext>
+        <changelogtext>Improved performance</changelogtext>
+        <changelogtext>Fixed bugs and FCs</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 25,2017"
+        versionName="1.4.9">
+        <changelogtext>Fix a new bug which is introduced in 1.4.8</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 25,2017"
+        versionName="1.4.8">
+        <changelogtext>Fix a new bug which is introduced in 1.4.7</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 25,2017"
+        versionName="1.4.7">
+        <changelogtext>[b][font color=red]New![/font][/b] Add a new performance related option in
+            the Settings page (for low-end devices)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add "Hide episode thumbnails" option in
+            the Settings page
+        </changelogtext>
+        <changelogtext>Fix provider : PelisPedia</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix movies provider : Afdah</changelogtext>
+        <changelogtext>Fix movies provider : MovieHubs</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizigold</changelogtext>
+        <changelogtext>Fix TV shows provider : YabanciDizi</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 18,2017"
+        versionName="1.4.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Add "Show HD links only" option in the
+            Settings page
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add "Show season special" option in the
+            Settings page
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Android N split screen support
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : MvGee
+        </changelogtext>
+        <changelogtext>Fix provider : MvGee</changelogtext>
+        <changelogtext>Fix provider : WatchFilm</changelogtext>
+        <changelogtext>Fix movies provider : AfdahTV</changelogtext>
+        <changelogtext>Fix movies provider : SpaceMov</changelogtext>
+        <changelogtext>Fix TV shows provider : YabanciDizi</changelogtext>
+        <changelogtext>Remove movies provider : Pubfilm</changelogtext>
+        <changelogtext>Fix subtitles service : MakeDie</changelogtext>
+        <changelogtext>Fix subtitles service : SubHD</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 13,2017"
+        versionName="1.4.5">
+        <changelogtext>[b][font color=red]New![/font][/b] Fix ads removal activation on FIre TV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add new category : Favorite
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Romanian translation</changelogtext>
+        <changelogtext>Fix subtitles service : OpenSubtitles</changelogtext>
+        <changelogtext>Fix subtitles service : SubHD</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 11,2017"
+        versionName="1.4.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Add ads removal support on FIre TV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : WatchFilm</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : WOPro</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : WOTube</changelogtext>
+        <changelogtext>Fix provider : FliXanity</changelogtext>
+        <changelogtext>Fix movies provider : AfdahTV</changelogtext>
+        <changelogtext>Fix movies provider : MovieGo</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Remove provider : OLMovies</changelogtext>
+        <changelogtext>Remove movies provider : HeyDL</changelogtext>
+        <changelogtext>Remove movies provider : Putlockerz</changelogtext>
+        <changelogtext>Remove subtitles service : Zimuku</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 5,2017"
+        versionName="1.4.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Improve Fire TV and Android TV support
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Serbian translation</changelogtext>
+        <changelogtext>Change default poster size to "Normal"</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 4,2017"
+        versionName="1.4.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Add VLC Player support (you can choose the
+            default player in the Settings page)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Display movie/episode runtime on details
+            page
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Improve AllCast, LocalCast and ADM
+            support
+        </changelogtext>
+        <changelogtext>Fix provider : FliXanity</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix provider : XMovies8</changelogtext>
+        <changelogtext>Fix movies provider : AfdahTV</changelogtext>
+        <changelogtext>Fix movies provider : HDMovie14</changelogtext>
+        <changelogtext>Fix movies provider : MovieFree</changelogtext>
+        <changelogtext>Fix movies provider : MovieHut</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizimag</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Fix URLs resolver : ok.ru</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Reduce ads</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 31,2017"
+        versionName="1.4.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Add year filter (for genre lists only)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add an option to allow users to enable
+            Android TV mode forcibly
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : Cine</changelogtext>
+        <changelogtext>Fix movies provider : HDMovie14</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Remove provider : MHDDB</changelogtext>
+        <changelogtext>Update some icons</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Reduce ads</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 29,2017"
+        versionName="1.4.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Add Android TV remote control D-Pad
+            support
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] New episode layout in landscape mode
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : Vumoo</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : AfdahTV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : Movie25V2
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : TinklePadV2
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : PutMV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : YouWatch
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Simplified Chinese translation
+        </changelogtext>
+        <changelogtext>Fix provider : FliXanity</changelogtext>
+        <changelogtext>Fix provider : PutMV</changelogtext>
+        <changelogtext>Fix movies provider : Afdah</changelogtext>
+        <changelogtext>Fix movies provider : HDMovie14</changelogtext>
+        <changelogtext>Improve German translation</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 23,2017"
+        versionName="1.3.12">
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows category : Animation
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add German translation</changelogtext>
+        <changelogtext>Fix URL resolver : MovPod</changelogtext>
+        <changelogtext>Remove URL resolver : Uploadc</changelogtext>
+        <changelogtext>Remove URL resolver : Vidbull</changelogtext>
+        <changelogtext>Remove URL resolver : Vodlocker</changelogtext>
+        <changelogtext>Improve Spanish translation</changelogtext>
+        <changelogtext>Remove some awful fullscreen ads</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 17,2017"
+        versionName="1.3.11">
+        <changelogtext>Fix a serious bug introduced in 1.3.10 which causes serious crash
+        </changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 16,2017"
+        versionName="1.3.10">
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 15,2017"
+        versionName="1.3.9">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MovieFree
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MovieXK
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add back TV shows provider : YabanciDizi
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : BlazeFile
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : CloudZilla
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : DivxStage
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Putload</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : VidUpOrg
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV leanback launcher banner (Credit :
+            /u/Hungryfarang @ Reddit)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Hungarian translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Malay translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Russian translation</changelogtext>
+        <changelogtext>Fix [b][font color=red]10[/font][/b] movies provider</changelogtext>
+        <changelogtext>Fix [b][font color=red]7[/font][/b] TV shows provider</changelogtext>
+        <changelogtext>Fix [b][font color=red]5[/font][/b] URLs resolvers</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Dec 18,2016"
+        versionName="1.3.8">
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : OLMovies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MovieGo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : Putlockerz
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : Dizilab
+        </changelogtext>
+        <changelogtext>Remove the compulsory use of a VPN for India users</changelogtext>
+        <changelogtext>Fix subtitles service : OpenSubtitles</changelogtext>
+        <changelogtext>Fix provider : PelisPedia</changelogtext>
+        <changelogtext>Fix provider : Vivo</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix movies provider : MiraDeTodo</changelogtext>
+        <changelogtext>Fix movies provider : Movie25</changelogtext>
+        <changelogtext>Fix movies provider : MovieHubs</changelogtext>
+        <changelogtext>Fix movies provider : MovieHut</changelogtext>
+        <changelogtext>Fix movies provider : MvGee</changelogtext>
+        <changelogtext>Fix movies provider : PutMV</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizimag</changelogtext>
+        <changelogtext>Fix TV shows provider : OnlineDizi</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Fix TV shows provider : WatchEpisodes</changelogtext>
+        <changelogtext>Fix URL resolver : NosVideo</changelogtext>
+        <changelogtext>Fix URL resolver : Streamin</changelogtext>
+        <changelogtext>Fix URL resolver : Watchers</changelogtext>
+        <changelogtext>Remove provider : Uplod</changelogtext>
+        <changelogtext>Remove movies provider : VU45</changelogtext>
+        <changelogtext>Remove TV shows provider : SantaSeries</changelogtext>
+        <changelogtext>Remove TV shows provider : YabanciDizi</changelogtext>
+        <changelogtext>Remove URL resolver : AllMyVideos</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Dec 4,2016"
+        versionName="1.3.7">
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Dec 4,2016"
+        versionName="1.3.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Ads removal (aka Premium) now available
+            (Please check our Facebook Page or official website)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MvGee
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : PutMV
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : NosVideo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Swedish translation</changelogtext>
+        <changelogtext>Fix provider : PelisPedia</changelogtext>
+        <changelogtext>Fix movies provider : SpaceMov</changelogtext>
+        <changelogtext>Fix movies provider : HeyDL</changelogtext>
+        <changelogtext>Remove TV shows provider : MaksiDizi</changelogtext>
+        <changelogtext>Fix URL resolver : Watchers</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Nov 20,2016"
+        versionName="1.3.5">
+        <changelogtext>Fix a serious bug introduced in 1.3.4</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Nov 20,2016"
+        versionName="1.3.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Add play button on menu</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Auto scroll to last watched TV season
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Norwegian translation</changelogtext>
+        <changelogtext>Fix provider : PelisPedia</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix URL resolver : GorillaVid</changelogtext>
+        <changelogtext>Fix URL resolver : Movshare</changelogtext>
+        <changelogtext>Fix FC after play button is clicked</changelogtext>
+        <changelogtext>Beautify app logo to follow the guidelines of Material Design (Thanks to
+            rodrigoswz@reddit)
+        </changelogtext>
+        <changelogtext>Enhance user experience</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Nov 6,2016"
+        versionName="1.3.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : iWatchOnline
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MovieHubs
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : YabanciDizi
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : MaksiDizi
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : WatchEpisodes
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add back URL resolver : TheVideo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Danish translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Turkish translation</changelogtext>
+        <changelogtext>Fix provider : XMovies8</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix provider : WatchFree</changelogtext>
+        <changelogtext>Fix movies provider : MiraDeTodo</changelogtext>
+        <changelogtext>Fix movies provider : TuneMovie</changelogtext>
+        <changelogtext>Fix movies provider : M4UFree</changelogtext>
+        <changelogtext>Fix movies provider : SpaceMov</changelogtext>
+        <changelogtext>Remove movies provider : Stage66</changelogtext>
+        <changelogtext>Remove movies provider : Rainierland</changelogtext>
+        <changelogtext>Fix URL resolver : VK</changelogtext>
+        <changelogtext>Fix URL resolver : Movshare</changelogtext>
+        <changelogtext>Fix images not loading bug</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Oct 21,2016"
+        versionName="1.3.2">
+        <changelogtext>Fix video not playing</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Oct 20,2016"
+        versionName="1.3.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Add Portuguese (Brazil) translation
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Indonesian translation
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Lithuanian translation
+        </changelogtext>
+        <changelogtext>Add back last watched blue highlight indicator</changelogtext>
+        <changelogtext>Fix subtitles service : OpenSubtitles</changelogtext>
+        <changelogtext>Fix movies provider : M4UFree</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizibox</changelogtext>
+        <changelogtext>Fix provider : XMovies8</changelogtext>
+        <changelogtext>Fix provider : Watch5s</changelogtext>
+        <changelogtext>Fix URL resolver : VidUp.me</changelogtext>
+        <changelogtext>Remove TV shows provider : UploadBan</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Oct 5,2016"
+        versionName="1.3.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Beautify UI</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Allows you to set an episode as watched
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : Watch5s</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : Uplod</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : Bia2M</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : VU45</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : UploadBan
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Hindi translation</changelogtext>
+        <changelogtext>Fix movies provider : Rainierland</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>Fix movie Russian Lolita of XMovies8 and HDMovie14</changelogtext>
+        <changelogtext>Fix URL resolver : Openload</changelogtext>
+        <changelogtext>Fix app crashes while updating using Android N</changelogtext>
+        <changelogtext>Remove internal video player</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Sep 27,2016"
+        versionName="1.2.16">
+        <changelogtext>[b][font color=red]New![/font][/b] Add internal video player</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add LG multi-window support
+        </changelogtext>
+        <changelogtext>Change FliXanity, CartoonHD, Putlocker and MoviesHD to FliXanityBased
+            provider
+        </changelogtext>
+        <changelogtext>Fix provider : XMovies8</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizibox</changelogtext>
+        <changelogtext>Fix TV shows provider : Dizigold</changelogtext>
+        <changelogtext>Fix movies provider : MovieZone</changelogtext>
+        <changelogtext>Disable HDMovie14 for TV shows</changelogtext>
+        <changelogtext>Fix URL resolver : NowVideo</changelogtext>
+        <changelogtext>Fix URL resolver : VShare.eu</changelogtext>
+        <changelogtext>Update SeriesGuide extension</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Sep 18,2016"
+        versionName="1.2.15">
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : Hasti</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : HeyDL</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : Farda
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Samsung multi-window support
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Indicate file size of all links
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Indicate TV show network</changelogtext>
+        <changelogtext>Fix provider : Farda</changelogtext>
+        <changelogtext>Fix movies provider : PirateJunkies</changelogtext>
+        <changelogtext>Fix movies provider : Pubfilm</changelogtext>
+        <changelogtext>Fix URL resolver : Streamin</changelogtext>
+        <changelogtext>Remove VideoMega URL resolver</changelogtext>
+        <changelogtext>Optimize links sorting order</changelogtext>
+        <changelogtext>Update translations</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Sep 10,2016"
+        versionName="1.2.14">
+        <changelogtext>[b][font color=red]New![/font][/b] Add support of Android N 7.0
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add subtitles service : Subscene (You need
+            to select language(s) in Setting page
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Openload
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Vietnamese to OpenSubtitles
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Georgian translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Italian translation</changelogtext>
+        <changelogtext>Fix provider : Putlocker</changelogtext>
+        <changelogtext>Fix provider : MoviesHD</changelogtext>
+        <changelogtext>Fix provider : FliXanity</changelogtext>
+        <changelogtext>Fix movies provider : SpaceMov</changelogtext>
+        <changelogtext>Fix URL resolver : VShare.eu</changelogtext>
+        <changelogtext>Show [Just Once] and [Always] in choosing apps popup</changelogtext>
+        <changelogtext>Hide subtitles of trailer in OpenSubtitles</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Sep 4,2016"
+        versionName="1.2.13">
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : CartoonHD</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : MovieHut
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : M4UFree
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : XMovies8
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] [i][font
+            color=green]Experimental[/font][/i] Add SeriesGuide extension support
+        </changelogtext>
+        <changelogtext>Fix provider : Putlocker</changelogtext>
+        <changelogtext>Fix provider : MoviesHD</changelogtext>
+        <changelogtext>Fix provider : FliXanity</changelogtext>
+        <changelogtext>Fix movies provider : Pubfilm</changelogtext>
+        <changelogtext>Fix TV shows provider : SezonlukDizi</changelogtext>
+        <changelogtext>UI update</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 23,2016"
+        versionName="1.2.12">
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : FliXanity</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : SpaceMov
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : VShare.eu
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Watchers
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : YouLol</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Dutch translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Portuguese (Portugal) translation
+        </changelogtext>
+        <changelogtext>Change movie provider Pubfilm01 to Pubfilm</changelogtext>
+        <changelogtext>Fix movie provider : Stage66</changelogtext>
+        <changelogtext>Fix URL resolver : AllMyVideos</changelogtext>
+        <changelogtext>Remove URL resolver : TheVideo</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 18,2016"
+        versionName="1.2.11">
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : AllMyVideos
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Hungarian to OpenSubtitles
+        </changelogtext>
+        <changelogtext>Fix provider : MHDDB</changelogtext>
+        <changelogtext>Fix TV shows provider : TVRush</changelogtext>
+        <changelogtext>Fix URL resolver : TheVideo (again)</changelogtext>
+        <changelogtext>Fix URL resolver : NowVideo</changelogtext>
+        <changelogtext>Fix URL resolver : NovaMov</changelogtext>
+        <changelogtext>Fix URL resolver : Movshare</changelogtext>
+        <changelogtext>Fix URL resolver : VodLocker</changelogtext>
+        <changelogtext>Update Arabic translation</changelogtext>
+        <changelogtext>Update Spanish translation</changelogtext>
+        <changelogtext>Update Finnish translation</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 15,2016"
+        versionName="1.2.10">
+        <changelogtext>[b][font color=red]New![/font][/b] Indicate media file size for GoogleVideo
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Filter out media files which file size is
+            too small (smaller than 10MB)
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add option to change app language
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Finnish translation</changelogtext>
+        <changelogtext>Fix provider : PelisPedia</changelogtext>
+        <changelogtext>Fix movie provider : Afdah</changelogtext>
+        <changelogtext>Fix movie provider : Stage66</changelogtext>
+        <changelogtext>Fix URL resolver : Movshare</changelogtext>
+        <changelogtext>Fix URL resolver : NowVideo</changelogtext>
+        <changelogtext>Fix French translation</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 14,2016"
+        versionName="1.2.9">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movies provider : WHO</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV shows provider : TVRush
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Arabic translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add French translation</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add Spanish translation</changelogtext>
+        <changelogtext>Fix movie provider : XMovies8</changelogtext>
+        <changelogtext>Fix URL resolver : TheVideo</changelogtext>
+        <changelogtext>Fix URL resolver : NowVideo</changelogtext>
+        <changelogtext>Fix URL resolver : Vidzi</changelogtext>
+        <changelogtext>Fix URL resolver : Letwatch</changelogtext>
+        <changelogtext>Fix subtitles service : OpenSubtitles</changelogtext>
+        <changelogtext>Performance improvement</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Aug 9,2016"
+        versionName="1.2.8">
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Letwatch
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Movshare
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Vidto</changelogtext>
+        <changelogtext>Fix URL resolver : VidUp.me</changelogtext>
+        <changelogtext>Fix URL resolver : Vidzi</changelogtext>
+        <changelogtext>Fix movie provider : Rainierland</changelogtext>
+        <changelogtext>Fix a serious crash which will happen in low-end devices</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 31,2016"
+        versionName="1.2.7">
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : NovaMov</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Uploadc</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Vidbull</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : VidUp.me
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : Vidzi</changelogtext>
+        <changelogtext>Fix movie provider : XMovies8</changelogtext>
+        <changelogtext>Code improvement and optimization</changelogtext>
+        <changelogtext>Reduce the chance of getting OutOfMemoryError</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 30,2016"
+        versionName="1.2.6">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movie provider : HDMovie14
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : MHDDB</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add provider : PrimeWire</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add suggestion section</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add IMDb and Rotten Tomatoes ratings
+        </changelogtext>
+        <changelogtext>Fix provider : MoviesHD</changelogtext>
+        <changelogtext>Fix provider : HDMovie14</changelogtext>
+        <changelogtext>Fix provider : TuneMovie</changelogtext>
+        <changelogtext>Fix movie provider : XMovies8</changelogtext>
+        <changelogtext>Fix movie provider : MiraDeTodo</changelogtext>
+        <changelogtext>Fix TV show provider : SezonlukDizi</changelogtext>
+        <changelogtext>Improve TV show provider : DayT</changelogtext>
+        <changelogtext>Improve TV show provider : Dizimag</changelogtext>
+        <changelogtext>Change domain of Makedie subtitles service</changelogtext>
+        <changelogtext>Indicates Farda links' codec</changelogtext>
+        <changelogtext>Don't override MX Player decode mode</changelogtext>
+        <changelogtext>Use local JavaScript engine to solve CloudFlare</changelogtext>
+        <changelogtext>Code improvement and optimization</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 16,2016"
+        versionName="1.2.5">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movie provider : Vivo</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV provider : TuneMovie
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add URL resolver : VideoMega
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add an option to choose default play
+            action
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add copy streamable link play action
+        </changelogtext>
+        <changelogtext>Fix movie provider : XMovies8</changelogtext>
+        <changelogtext>Fix movie provider : MovieZone</changelogtext>
+        <changelogtext>Fix movie provider : MoviesHD</changelogtext>
+        <changelogtext>Fix Parse Error while installing updates</changelogtext>
+        <changelogtext>Remove Dizilab</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 10,2016"
+        versionName="1.2.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movie source : Movie25</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add movie source : MoviesHD
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV source : PelisPedia</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add TV source : SantaSeries
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add more url resolvers</changelogtext>
+        <changelogtext>Fix videos won't start when using any ad-blocking</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 9,2016"
+        versionName="1.2.3">
+        <changelogtext>Fix provider : Putlocker</changelogtext>
+        <changelogtext>Fix provider : Dizimag</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 8,2016"
+        versionName="1.2.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Add movie source : Afdah</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Auto save sorting orders</changelogtext>
+        <changelogtext>Add bookmark list button back in homepage</changelogtext>
+        <changelogtext>Fix OpenSubtitles</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 5,2016"
+        versionName="1.2.1">
+        <changelogtext>Fix movie provider : PelisPedia</changelogtext>
+        <changelogtext>Fix movie provider : MiraDeTodo</changelogtext>
+        <changelogtext>Fix download manager choosing bug</changelogtext>
+        <changelogtext>Remove a newly added ad</changelogtext>
+        <changelogtext>Bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="July 4,2016"
+        versionName="1.2.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Movies!</changelogtext>
+        <changelogtext>Fix source : WatchSeries</changelogtext>
+        <changelogtext>Huge bugs and FCs fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="June 19,2016"
+        versionName="1.1.5">
+        <changelogtext>[b][font color=red]New![/font][/b] New UI</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : WatchFree</changelogtext>
+        <changelogtext>Fix source : Putlocker</changelogtext>
+        <changelogtext>Fix source : Dayt</changelogtext>
+        <changelogtext>Bug and FC fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 29,2016"
+        versionName="1.1.4">
+        <changelogtext>Fix source : Farda</changelogtext>
+        <changelogtext>Temporarily disable Dizilab</changelogtext>
+        <changelogtext>Bug and FC fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 14,2016"
+        versionName="1.1.3">
+        <changelogtext>Fix subtitles service : Makedie</changelogtext>
+        <changelogtext>Show notification if source cannot be played or opened by other video
+            players
+        </changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="May 8,2016"
+        versionName="1.1.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Putlocker</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add category : Recently Updated
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add category : New Shows</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add category : Premieres</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add option to choose default category or
+            genre
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add option to filter out non-English TV
+            shows
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add option to filter out dead sources
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add option to choose providers and
+            resolvers to be enabled
+        </changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 22,2016"
+        versionName="1.1.1">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Dayt</changelogtext>
+        <changelogtext>Fix source : Dizigold</changelogtext>
+        <changelogtext>Fix source : OnlineDizi</changelogtext>
+        <changelogtext>Optimize image loading</changelogtext>
+        <changelogtext>Optimize UI</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Apr 18,2016"
+        versionName="1.1.0">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Vivo</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : OnlineDizi</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can choose to show 2 columns of list
+            in landscape mode instead of 1
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can play via other video players or
+            using Chromecast
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can download TV shows to SD card
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can choose to hide thumbnails now
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can choose to disable parallel sources
+            loading now
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] You can sort TV seasons and episodes in
+            ascending or descending order
+        </changelogtext>
+        <changelogtext>Fix source : SezonlukDizi</changelogtext>
+        <changelogtext>Fix source : Dizimag</changelogtext>
+        <changelogtext>Fix source : Dizilab</changelogtext>
+        <changelogtext>Fix source : Vidics</changelogtext>
+        <changelogtext>Fix source : WatchSeries</changelogtext>
+        <changelogtext>Faster speed of getting sources</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+        <changelogtext>More optimization</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 12,2016"
+        versionName="1.0.19">
+        <changelogtext>Fix failed to download subtitles error</changelogtext>
+        <changelogtext>Fix OpenSubtitles</changelogtext>
+        <changelogtext>Fix Dizimag</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 9,2016"
+        versionName="1.0.18">
+        <changelogtext>Fix failed to download subtitles error</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Mar 7,2016"
+        versionName="1.0.17">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Farda</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add more link resolvers. More links from
+            WatchSeries and Vidics now
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add subtitle source : OpenSubtitles (You
+            need to select language(s) in Setting page
+        </changelogtext>
+        <changelogtext>Fix source : Dizimag</changelogtext>
+        <changelogtext>Faster speed of getting sources</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 27,2016"
+        versionName="1.0.16">
+        <changelogtext>[b][font color=red]New![/font][/b] Add genre selection</changelogtext>
+        <changelogtext>Change default subtitles service to SubHD</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 24,2016"
+        versionName="1.0.15">
+        <changelogtext>Improve images quality</changelogtext>
+        <changelogtext>Fix wrong display name of subtitles services</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 23,2016"
+        versionName="1.0.14">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : 9Movies</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : MovieHDMax</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : HDMovie14</changelogtext>
+        <changelogtext>Increase the efficiency of getting sources</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 19,2016"
+        versionName="1.0.13">
+        <changelogtext>[b][font color=red]New![/font][/b] Now you can choose subtitles download path
+            and shows download path via directory selector
+        </changelogtext>
+        <changelogtext>Increase the efficiency of getting sources</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 14,2016"
+        versionName="1.0.12">
+        <changelogtext>[b][font color=red]New![/font][/b] Add subtitles filter</changelogtext>
+        <changelogtext>Improve accuracy of subtitles searching</changelogtext>
+        <changelogtext>Fix no data for some shows</changelogtext>
+        <changelogtext>Fix Vidics</changelogtext>
+        <changelogtext>FC and Bug fix</changelogtext>
+        <changelogtext>Support 4.0.1 and upper versions of Android now</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 10,2016"
+        versionName="1.0.11">
+        <changelogtext>Fix Dizimag</changelogtext>
+        <changelogtext>Performance optimization</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 7,2016"
+        versionName="1.0.10">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Dizibox</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 6,2016"
+        versionName="1.0.9">
+        <changelogtext>[b][font color=red]New![/font][/b] You can hide unaired season and episode
+            now
+        </changelogtext>
+        <changelogtext>Temporary disable MovieTV</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 5,2016"
+        versionName="1.0.8">
+        <changelogtext>[b][font color=red]New![/font][/b] Available to choose custom download path
+            of TV shows now
+        </changelogtext>
+        <changelogtext>Fix SezonlukDizi</changelogtext>
+        <changelogtext>Fix update unsuccessfully caused by new pemission mechanism on Android 6
+        </changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Feb 3,2016"
+        versionName="1.0.7">
+        <changelogtext>[b][font color=red]New![/font][/b] Subtitle language choosing</changelogtext>
+        <changelogtext>Fix crashes caused by new pemission mechanism on Android 6</changelogtext>
+        <changelogtext>Optimize tablet UI view</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 31,2016"
+        versionName="1.0.6">
+        <changelogtext>[b][font color=red]New![/font][/b] [i][font
+            color=green]Experimental[/font][/i] Add support of Chinese shows name
+        </changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] [i][font
+            color=green]Experimental[/font][/i] Add support of searching shows by using
+            Chinese
+        </changelogtext>
+        <changelogtext>Fix MovieTV</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 24,2016"
+        versionName="1.0.5">
+        <changelogtext>[b][font color=red]New![/font][/b] Add subtitle source : SubHD
+        </changelogtext>
+        <changelogtext>More optimization</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 23,2016"
+        versionName="1.0.4">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : SezonlukDizi</changelogtext>
+        <changelogtext>Fix sources sorting logic</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 22,2016"
+        versionName="1.0.3">
+        <changelogtext>[b][font color=red]New![/font][/b] Add subtitle source : Zimuku
+        </changelogtext>
+        <changelogtext>Fix the wrong video length of MovieTV</changelogtext>
+        <changelogtext>Shows sources will be sorted by quality now</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 20,2016"
+        versionName="1.0.2">
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : MovieTV</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Add source : Dizigold</changelogtext>
+        <changelogtext>[b][font color=red]New![/font][/b] Indicate whether the show was added to
+            favorite or has been
+            watched recently
+        </changelogtext>
+        <changelogtext>Logic optimization</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 14,2016"
+        versionName="1.0.1">
+        <changelogtext>[b][font color=red]New![/font][/b] TV shows can be downloaded with subtitles
+            now
+        </changelogtext>
+        <changelogtext>Optimize source finding logics. Source finding is much faster now!
+        </changelogtext>
+        <changelogtext>Fix sometimes subtitles not loading</changelogtext>
+        <changelogtext>Bug fix</changelogtext>
+    </changelogversion>
+
+    <changelogversion
+        changeDate="Jan 10,2016"
+        versionName="1.0.0">
+        <changelogtext>Initial release.</changelogtext>
+    </changelogversion>
+
+</changelog>
